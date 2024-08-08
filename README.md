@@ -1,2 +1,2 @@
-Para verificar el funcionamiento correcto del programa se debe ejecutar dos veces, una con "register" en la variable iteradora y otra sin register y comparar los tiempo de ejecución.
+Para verificar el funcionamiento correcto del programa se debe ejecutar dos veces, una con "register" en la variable iteradora y otra sin register y comparar los tiempos de ejecución.
 Es importante tener en cuenta que los registros del procesador son limitados y el compilador puede decidir qué variables almacenar en registros y cuáles no, por lo que colocar muchas variables con "register" no siempre es lo más eficiente.
